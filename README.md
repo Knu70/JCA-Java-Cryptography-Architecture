@@ -8,18 +8,3 @@
 Bouncy Castle 1.66
 
 Commons Codec 1.15
-
-<dependencies>
-  <dependency>
-    <groupId>org.bouncycastle</groupId>
-    <artifactId>bcprov-jdk15to18</artifactId>
-    <version>1.66</version>
-  </dependency>
-  <dependency>
-    <groupId>commons-codec</groupId>
-    <artifactId>commons-codec</artifactId>
-    <version>1.15</version>
-    <type>jar</type>
-  </dependency>
-</dependencies>
-
